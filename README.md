@@ -1,6 +1,6 @@
 # swap
 Easy invert mouse configuration, easily. Perfect when you for some reason has two mice connected
-to the same computer..🖱 🖱
+to the same computer..🖱💻 🖱
 
 1. Build with `dotnet build`
 2. Create shortcut to the `.dll` that has been build.
